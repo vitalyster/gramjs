@@ -57,14 +57,16 @@
     "async-mutex": "^0.3.0",
     "big-integer": "^1.6.48",
     "buffer": "^6.0.3",
+    "bufferutil": "^4.0.3",
     "htmlparser2": "^6.1.0",
     "mime": "^3.0.0",
+    "node-localstorage": "^2.2.1",
     "pako": "^2.0.3",
     "path-browserify": "^1.0.1",
+    "socks": "^2.6.2",
     "store2": "^2.13.0",
     "ts-custom-error": "^3.2.0",
-    "websocket": "^1.0.34",
-    "node-localstorage": "^2.2.1",
-    "socks": "^2.6.2"
+    "utf-8-validate": "^5.0.5",
+    "websocket": "^1.0.34"
   }
 }
